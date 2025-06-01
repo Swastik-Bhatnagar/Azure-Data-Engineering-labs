@@ -1,4 +1,4 @@
-Overview
+Overview: 
 This repository documents my hands-on learning journey through 22 comprehensive Azure Data Engineering labs, designed to prepare for the Microsoft Azure DP-203 certification exam. Each lab includes practical implementations, screenshots, and key learnings from real-world data engineering scenarios.
 
 Focus Areas: Data storage, data processing, data security, and monitoring in Azure
